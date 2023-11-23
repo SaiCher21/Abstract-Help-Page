@@ -4,7 +4,7 @@ This is a learning Project to practice Front End Development with a group of peo
 
 The page that we are rebuilding following the best industry methods
 
-![image](https://github.com/Kunabharadwaj/Abstract-Help-Page/assets/64983554/79ae7fab-de95-41b9-9b72-e98d57513e21)
+![image]((https://www.frontendpractice.com/_next/image?url=%2Ffullsize%2FC2-abstract.png&w=1200&q=90))
 
 Best Practices that need to be followed:
 1.Semantic HTML(Need to follow this for better accessibility).
