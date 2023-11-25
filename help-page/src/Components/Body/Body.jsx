@@ -3,9 +3,9 @@ import '../Body/Body.css'
 
 const Body = () => {
   return (
-    <div>
-      Body
-    </div>
+    <section>
+      <p>Hi there</p>
+    </section>
   )
 }
 
