@@ -24,6 +24,11 @@ const NavBar = () => {
             </g>
           </svg>
         </div>
+        <p class="p"><span class="len">|</span> Help Center</p>
+        <div class="btn-cont">
+        <button class="btn cust-1">Submit a request</button>
+        <button class="btn cust-2">Sign in</button>
+        </div>
       </div>
     </nav>
    </section>
