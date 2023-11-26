@@ -3,8 +3,9 @@ import '../Body/Body.css'
 
 const Body = () => {
   return (
-    <section>
-      <p>Hi there</p>
+    <section id='category-list'>
+      <div class="category-list__item">
+      </div>
     </section>
   )
 }
