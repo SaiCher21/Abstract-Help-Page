@@ -1,3 +1,46 @@
 #main-nav{
     background-color: bisque;
 }
+
+.main-nav__container{
+    background-color:black;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+.main-nav__logo{
+    padding:20px;
+}
+
+.logo{
+    width:120px;
+}
+.p{
+    color:white;
+}
+
+.btn-cont{
+    margin:20px;
+}
+
+.cust-1{
+    color:white;
+    background-color:rgb(29, 30, 30);
+    border-radius:5px;
+    width:150px;
+    border:1px solid;padding:8px;margin:5px;
+}
+
+.len{
+    font-size:28px;
+}
+
+.cust-2{
+    color:white;
+    background-color:rgb(12, 106, 200);
+    border-radius:5px;
+    width:80px;
+    border:none;padding:8px;margin:5px;
+}
+
