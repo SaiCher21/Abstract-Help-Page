@@ -15,9 +15,12 @@
 
 .logo{
     width:120px;
+    margin: trim 200px;;
 }
 .p{
     color:white;
+    padding-left:-200px;
+    
 }
 
 .btn-cont{
